@@ -9,7 +9,7 @@ Se creo el archivo de la Pista de carreras con Tkinter:
 <img width="885" height="37" alt="image" src="https://github.com/user-attachments/assets/71d42f5f-c192-49e6-9fdc-38b36ba38352" />
 <img width="1384" height="306" alt="image" src="https://github.com/user-attachments/assets/b339989f-8bf4-4459-9329-826e3a585ac8" />
 
-Luego, se crea el archivo de Dockerfile:
++ Luego, se crea el archivo de Dockerfile:
 <img width="694" height="30" alt="image" src="https://github.com/user-attachments/assets/c3e793c0-9698-4f75-8669-ed34661b3989" />
 
 Se inicio la construcción de la imagen Docker:
@@ -27,7 +27,7 @@ Desde el terminal:
 
 ### despliegue con Docker:
 
-~Se uso el comando de "Docker run" el cual hace el despliegue directamente con Docker y hace que se diferencie del ejecutable desde el terminal:~
+Se uso el comando de "Docker run" el cual hace el despliegue directamente con Docker y hace que se diferencie del ejecutable desde el terminal:
 <img width="1647" height="499" alt="image" src="https://github.com/user-attachments/assets/b5b425a5-2910-4f5d-a80e-e5b4835369c1" />
 
 + Despliegue con docker del Brazo Robotico:
